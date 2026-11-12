@@ -8,7 +8,11 @@
 
 ResearchGraph 是 Zotero 中的可视化研究图谱。你和 AI 可以在同一张图里记录问题、想法、行动与文献证据，把“为什么这样想”和“下一步做什么”一起留下。
 
-![研究时的我：全都串起来了。新开对话的我：这篇论文当时用来证明什么？](assets/research-meme-zh.svg)
+| 读完了，但没记住 | AI 讨论得很明白，我还没跟上 |
+| --- | --- |
+| <img src="assets/reading-memory-meme.jpg" width="330" alt="同一段读了一遍又一遍，还是记不住" /> | <img src="assets/ai-caveman-meme.jpg" width="430" alt="GPT 和 Claude 讨论，我像原始人一样旁观" /> |
+
+*所以，别只把研究留在脑子和聊天记录里。梗图转载出处：[反复阅读](https://ch.pinterest.com/pin/rereading-the-same-paragraph--48695239713266990/) · [AI 与原始人](https://www.woshipm.com/ai/6444972.html)。*
 
 ## 怎样组织思路
 

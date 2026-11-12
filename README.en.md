@@ -8,7 +8,11 @@ Research is hard to record as a whole. Ideas end up in scattered notes, excerpts
 
 ResearchGraph is a visual research graph inside Zotero. You and AI can record questions, ideas, actions and evidence in the same graph, keeping both your reasoning and your next steps in view.
 
-![Me during research: it all connects. Me in a new chat: what was this paper supposed to prove?](assets/research-meme-en.svg)
+| Read it. Forgot it. Read it again. | GPT and Claude are deep in discussion. Me: caveman. |
+| --- | --- |
+| <img src="assets/reading-memory-meme.jpg" width="330" alt="Rereading the same paragraph without retaining anything" /> | <img src="assets/ai-caveman-meme.jpg" width="430" alt="GPT and Claude discussing while I watch like a caveman; caption: half an hour into vibe coding" /> |
+
+*Give the thinking a home beyond your memory and chat history. Meme sources: [rereading](https://ch.pinterest.com/pin/rereading-the-same-paragraph--48695239713266990/) · [AI and the caveman](https://www.woshipm.com/ai/6444972.html).*
 
 ## How it works
 
