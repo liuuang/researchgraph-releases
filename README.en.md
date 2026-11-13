@@ -20,6 +20,8 @@ When creating an evidence card, enter a name or leave it blank to use the select
 
 Automatic updates are enabled by default in the version maintenance settings. You can turn them off and still check for updates manually.
 
+When adding evidence, target and relation default to None. Selecting a node beforehand or dropping onto a node prefills the target. A connection is created only when both target and relation are selected.
+
 ## How it works
 
 Start with a question. Add an idea, then connect the evidence, counterarguments, conditions and actions around it. Build the graph gradually as you read and discuss.
