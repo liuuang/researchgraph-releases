@@ -27,7 +27,7 @@ Start with a question. Add an idea, then connect the evidence, counterarguments,
 - **Record and examine ideas**: connect nodes with support, contradiction and conditions to inspect the reasoning behind a claim.
 - **Stay close to the literature**: drag papers from Zotero, create evidence from PDF selections or annotations, preview pages and return to the source.
 - **Work with AI**: connect a compatible client through optional MCP tools to read your graph and add ideas and evidence. A new conversation can reload the graph; the plugin does not automatically remember every chat.
-- **Organize in layers**: organize research angles into layers; copy and paste across layers to share the same node. Switch between Edit, Read, Overlay, Tile, and Overview, and control layer visibility from the sidebar.
+- **Organize in layers**: organize research angles into layers; copy and paste across layers to share the same node. Switch between Edit, Read, Tile, and Overview, and control layer visibility from the sidebar. Edit and Read share the same cards, viewport, and selection; Tile stays aligned with the active layer.
 - **Keep revising**: focused reading, automatic layout, undo/redo, version comparison and restoration, and project JSON import/export.
 
 ![Drag a paper from Zotero into the graph](assets/zotero-drag-drop.gif)
