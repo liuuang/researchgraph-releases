@@ -20,7 +20,7 @@ Start with a question. Add an idea, then connect the evidence, counterarguments,
 
 **Evidence keeps the original passage; relationships explain how it connects to your question.** A relevant paper does not necessarily support a claim. Recording where it fits and why it matters makes your reasoning easier to revisit, for both you and AI.
 
-![ResearchGraph workbench, shown in Chinese](assets/01-learning.png)
+![ResearchGraph workbench, shown in Chinese](assets/share/color-pdf-00.png)
 
 ## What you can do
 
@@ -49,3 +49,5 @@ Graphs are stored in a separate local database. AI requires a separately configu
 ---
 
 This repository provides the public introduction and installable releases. The source repository is currently private. Screenshots and animations use demo data, not real research findings. ResearchGraph is an independent project and is not affiliated with Zotero.
+
+Node edges are controlled in Settings → Appearance → Nodes → Node edge style. Colored edges are the default. [Monochrome example](assets/share/mono-pdf-00.png).

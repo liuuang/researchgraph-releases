@@ -20,7 +20,16 @@ ResearchGraph 是 Zotero 中的可视化研究图谱。你和 AI 可以在同一
 
 **证据保存原文，关系表达它与当前问题的联系。** 找到一篇相关论文，不等于它支持某个判断；把它用在哪里、为什么有用写清楚，才方便回头检查，也方便 AI 接着工作。
 
-![ResearchGraph 工作台](assets/01-learning.png)
+![ResearchGraph 线性示例（默认彩色版）](assets/share/color-pdf-00.png)
+
+<details>
+<summary>查看简洁单色版</summary>
+
+![线性示例（单色版）](assets/share/mono-pdf-00.png)
+
+</details>
+
+节点边缘统一在「设置 → 外观 → 节点 → 节点边缘样式」调整，默认使用彩色边缘。
 
 ## 能做什么
 
