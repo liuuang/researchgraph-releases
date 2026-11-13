@@ -18,6 +18,8 @@ Use the button beside grid snap to show or hide selected relationship edges. Its
 
 When creating an evidence card, enter a name or leave it blank to use the selected text or paper title. Source text and the cited paper stay separate; add your notes in Description.
 
+Automatic updates are enabled by default in the version maintenance settings. You can turn them off and still check for updates manually.
+
 ## How it works
 
 Start with a question. Add an idea, then connect the evidence, counterarguments, conditions and actions around it. Build the graph gradually as you read and discuss.
