@@ -51,3 +51,9 @@ Graphs are stored in a separate local database. AI requires a separately configu
 This repository provides the public introduction and installable releases. The source repository is currently private. Screenshots and animations use demo data, not real research findings. ResearchGraph is an independent project and is not affiliated with Zotero.
 
 Node edges are controlled in Settings → Appearance → Nodes → Node edge style. Colored edges are the default. [Monochrome example](assets/share/mono-pdf-00.png).
+
+## Recent changes
+
+- Clicking a layer shows only that layer; All shows every layer, and eye icons reflect actual visibility.
+- Paste at the pointer position; Ctrl+X moves nodes between layers after a successful paste. Escape cancels the cut.
+- Both edit and read modes use left-drag for box selection and Ctrl+left-drag for panning.
