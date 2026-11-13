@@ -14,6 +14,8 @@ ResearchGraph is a visual research graph inside Zotero. You and AI can record qu
 
 *Give the thinking a home beyond your memory and chat history. Meme sources: [rereading](https://ch.pinterest.com/pin/rereading-the-same-paragraph--48695239713266990/) · [AI and the caveman](https://www.woshipm.com/ai/6444972.html).*
 
+Use the button beside grid snap to show or hide selected relationship edges. Its dropdown lets you choose which relationships to hide. This works independently of plugins. Directory ordering handles the directory; its plugin page no longer contains the hierarchy relation dropdown.
+
 ## How it works
 
 Start with a question. Add an idea, then connect the evidence, counterarguments, conditions and actions around it. Build the graph gradually as you read and discuss.
