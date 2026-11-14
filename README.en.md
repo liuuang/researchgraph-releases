@@ -22,6 +22,8 @@ Automatic updates are enabled by default in the version maintenance settings. Yo
 
 When adding evidence, target and relation default to None. Selecting a node beforehand or dropping onto a node prefills the target. A connection is created only when both target and relation are selected.
 
+The source issue banner includes View and repair, listing broken sources and repair actions across the project without requiring a node selection.
+
 ## How it works
 
 Start with a question. Add an idea, then connect the evidence, counterarguments, conditions and actions around it. Build the graph gradually as you read and discuss.
