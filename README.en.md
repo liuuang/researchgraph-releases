@@ -24,6 +24,8 @@ When adding evidence, target and relation default to None. Selecting a node befo
 
 The source issue banner includes View and repair, listing broken sources and repair actions across the project without requiring a node selection.
 
+Automatic update preferences persist across versions. Directory selections support batch context-menu actions. Node details show all sources by default with add, rebind and unlink controls. Removing a shared source node clears its current-layer associations and supports undo.
+
 ## How it works
 
 Start with a question. Add an idea, then connect the evidence, counterarguments, conditions and actions around it. Build the graph gradually as you read and discuss.
