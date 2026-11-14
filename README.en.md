@@ -28,6 +28,8 @@ Automatic update preferences persist across versions. Directory selections suppo
 
 The first edge context-menu item toggles fixed and free connection sides. Fixed mode preserves the connection sides; free mode selects them as nodes move. New connections default to free mode.
 
+New nodes select the default title for immediate replacement. Renaming places the cursor at the end of the title.
+
 ## How it works
 
 Start with a question. Add an idea, then connect the evidence, counterarguments, conditions and actions around it. Build the graph gradually as you read and discuss.
