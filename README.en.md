@@ -99,3 +99,7 @@ Quick connections with curved previews and target snapping, number-key relation 
 ### v0.0.38
 
 Node and relation shortcuts retain their full-list numbers when menus omit the current item. Numbers change only when the configured order changes.
+
+### v0.0.39
+
+Shared-trunk context menus apply relation changes, direction reversal, fixed/free endpoints and deletion to the entire group. The menu shows the affected count; individual branches remain independent.
