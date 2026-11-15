@@ -90,3 +90,8 @@ Quick connections with curved previews and target snapping, number-key relation 
 - Built-in Quick actions plugin controls drag sorting and number shortcuts while preserving saved order.
 - Number hints precede labels; reorder node and relation choices directly across menus.
 - Node dragging cancels layout animation and prevents stale layout positions from overwriting live movement.
+
+### v0.0.37
+
+- Box-select in connection mode and connect selected nodes to one target with a single relation choice, excluding self-connections.
+- Built-in Mouse gestures plugin controls the right-drag radial menu and its 2/4/8 directions.
