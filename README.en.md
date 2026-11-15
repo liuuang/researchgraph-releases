@@ -73,3 +73,7 @@ Node edges are controlled in Settings → Appearance → Nodes → Node edge sty
 - Clicking a layer shows only that layer; All shows every layer, and eye icons reflect actual visibility.
 - Paste at the pointer position; Ctrl+X moves nodes between layers after a successful paste. Escape cancels the cut.
 - Both edit and read modes use left-drag for box selection and Ctrl+left-drag for panning.
+
+### v0.0.34
+
+Quick connections with curved previews and target snapping, number-key relation selection, 2/4/8-sector right-drag menus, and neutral dark colors.
