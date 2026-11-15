@@ -95,3 +95,7 @@ Quick connections with curved previews and target snapping, number-key relation 
 
 - Box-select in connection mode and connect selected nodes to one target with a single relation choice, excluding self-connections.
 - Built-in Mouse gestures plugin controls the right-drag radial menu and its 2/4/8 directions.
+
+### v0.0.38
+
+Node and relation shortcuts retain their full-list numbers when menus omit the current item. Numbers change only when the configured order changes.
