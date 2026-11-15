@@ -103,3 +103,7 @@ Node and relation shortcuts retain their full-list numbers when menus omit the c
 ### v0.0.39
 
 Shared-trunk context menus apply relation changes, direction reversal, fixed/free endpoints and deletion to the entire group. The menu shows the affected count; individual branches remain independent.
+
+### v0.0.40
+
+Includes the grouped trunk actions from v0.0.39. With Quick actions enabled, type and relation menus retain the current choice. Selecting an unchanged choice performs no mutation.
