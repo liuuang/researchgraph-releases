@@ -84,3 +84,9 @@ Quick connections with curved previews and target snapping, number-key relation 
 - Node visibility filters and relation filters; all relations visible by default.
 - Simplified relation picker and numbered node/relation submenu shortcuts.
 - Coalesced connection previews and fewer redundant geometry reads and radial-menu updates.
+
+### v0.0.36
+
+- Built-in Quick actions plugin controls drag sorting and number shortcuts while preserving saved order.
+- Number hints precede labels; reorder node and relation choices directly across menus.
+- Node dragging cancels layout animation and prevents stale layout positions from overwriting live movement.
