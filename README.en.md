@@ -78,7 +78,7 @@ Node edges are controlled in Settings → Appearance → Nodes → Node edge sty
 
 Quick connections with curved previews and target snapping, number-key relation selection, 2/4/8-sector right-drag menus, and neutral dark colors.
 
-### Upcoming changes (not yet released)
+### v0.0.35
 
 - Unified paper entry with current Zotero selection and highlighted drop targets.
 - Node visibility filters and relation filters; all relations visible by default.
