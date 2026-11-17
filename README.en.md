@@ -107,3 +107,12 @@ Shared-trunk context menus apply relation changes, direction reversal, fixed/fre
 ### v0.0.40
 
 Includes the grouped trunk actions from v0.0.39. With Quick actions enabled, type and relation menus retain the current choice. Selecting an unchanged choice performs no mutation.
+
+### v0.0.41
+
+- Serialize position saves and wait for pending writes before undo, reducing stale positions and node-creation focus races.
+- Optimize edge obstacle routing and synchronize selection across the directory, canvas, details and layers.
+- Fix existing-paper drops across layers and clarify the actual direction of reference connections.
+- Add delayed transitions and immediate response options under edge appearance. The default waits 150ms before a 280ms transition, with attachment points sliding along node borders.
+
+Validation includes 525 unit tests, type checking, production build, localization checks and 6/6 edge-response checks. An earlier integrated run recorded 147 passes and 20 failures. Some passed subsequent targeted checks; remaining layer-transition, source-entry and focus cases are still tracked. Dense graphs may remain slow, and large-graph performance has not been remeasured after the attachment-point transitions.
