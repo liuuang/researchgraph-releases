@@ -116,3 +116,11 @@ Includes the grouped trunk actions from v0.0.39. With Quick actions enabled, typ
 - Add delayed transitions and immediate response options under edge appearance. The default waits 150ms before a 280ms transition, with attachment points sliding along node borders.
 
 Validation includes 525 unit tests, type checking, production build, localization checks and 6/6 edge-response checks. An earlier integrated run recorded 147 passes and 20 failures. Some passed subsequent targeted checks; remaining layer-transition, source-entry and focus cases are still tracked. Dense graphs may remain slow, and large-graph performance has not been remeasured after the attachment-point transitions.
+
+### v0.0.42
+
+- Reroute relationship lines when an unconnected node blocks them during a held drag, and restore the path when the obstacle moves away.
+- Apply the same 150ms delay and 280ms transition to direct, detour and obstacle-routing mode changes, including after release.
+- Standardize Chinese UI terminology for relationship lines.
+
+544 unit tests, type checking, production build and localization checks passed, with 3/3 targeted Zotero checks. Large-graph performance has not been remeasured for these changes; previously documented integrated-test issues remain under investigation.
