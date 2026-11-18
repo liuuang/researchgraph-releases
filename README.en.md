@@ -124,3 +124,11 @@ Validation includes 525 unit tests, type checking, production build, localizatio
 - Standardize Chinese UI terminology for relationship lines.
 
 544 unit tests, type checking, production build and localization checks passed, with 3/3 targeted Zotero checks. Large-graph performance has not been remeasured for these changes; previously documented integrated-test issues remain under investigation.
+
+### v0.0.43
+
+- Preserve the pointer-down position so nodes track the full movement of a fast drag.
+- Keep the existing edge route until it is blocked. Check the drawn curves, shared trunks, and rounded corners for collisions, including in tight spaces near attachment points.
+- Reduce repeated path sampling for transitions and arrowheads. Compare saved positions by node ID to avoid replaying layout animation when only the order changes.
+
+593 unit tests, build and localization checks passed, along with 3/3 targeted Zotero checks. On Windows, dragging a selected node and holding the pointer down still produced a frame of about 390 ms in testing.
