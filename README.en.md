@@ -132,3 +132,7 @@ Validation includes 525 unit tests, type checking, production build, localizatio
 - Reduce repeated path sampling for transitions and arrowheads. Compare saved positions by node ID to avoid replaying layout animation when only the order changes.
 
 593 unit tests, build and localization checks passed, along with 3/3 targeted Zotero checks. On Windows, dragging a selected node and holding the pointer down still produced a frame of about 390 ms in testing.
+
+### v0.0.44
+
+Fix citation lines crossing cards at narrow exits. When standard obstacle routing cannot find a way out, reduce clearance near the attachment point to fit the actual gap and check the full route for collisions. In isolated Zotero, all three citation lines avoided the action card and kept their shared trunk on initial open and reopen. All 596 unit tests, the build, and localization checks passed.
