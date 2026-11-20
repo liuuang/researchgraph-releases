@@ -136,3 +136,10 @@ Validation includes 525 unit tests, type checking, production build, localizatio
 ### v0.0.44
 
 Fix citation lines crossing cards at narrow exits. When standard obstacle routing cannot find a way out, reduce clearance near the attachment point to fit the actual gap and check the full route for collisions. In isolated Zotero, all three citation lines avoided the action card and kept their shared trunk on initial open and reopen. All 596 unit tests, the build, and localization checks passed.
+
+### v0.0.45
+
+- Press F2 to rename a selected project, layer, or directory node inline. Enter saves, Escape cancels, and focus returns to the original row.
+- Layer counts include only existing nodes and refresh after creation, deletion, layer changes, and reopening.
+
+All 596 unit tests, the build, and localization checks passed, along with 2/2 sidebar regression tests in isolated Zotero.
