@@ -143,3 +143,10 @@ Fix citation lines crossing cards at narrow exits. When standard obstacle routin
 - Layer counts include only existing nodes and refresh after creation, deletion, layer changes, and reopening.
 
 All 596 unit tests, the build, and localization checks passed, along with 2/2 sidebar regression tests in isolated Zotero.
+
+### v0.0.46
+
+- Move the connection and snap buttons to the left of Edit. The toolbar order is Connect, Snap, Edit, Read.
+- Connection mode is available in Edit. Switching to Read exits connection mode and cancels its drag preview and pending relation dialog. The button and right-drag gesture both respect this restriction.
+
+All 596 unit tests, the build, and localization checks passed, along with 6/6 regression checks in isolated Zotero.
